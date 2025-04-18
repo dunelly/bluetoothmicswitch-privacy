@@ -1,6 +1,10 @@
 # BluetoothMicSwitch Privacy Policy
 
+<<<<<<< HEAD
 Last updated: March 19, 2024
+=======
+Last updated: [Current Date]
+>>>>>>> 4993d69f1726557670eeef7aba4d382c23828ba9
 
 ## Introduction
 
@@ -47,4 +51,8 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 ## Contact Us
 
+<<<<<<< HEAD
 If you have any questions about this Privacy Policy, please contact us at support@bluetoothmicswitch.app 
+=======
+If you have any questions about this Privacy Policy, please contact us at [Your Email Address] 
+>>>>>>> 4993d69f1726557670eeef7aba4d382c23828ba9
