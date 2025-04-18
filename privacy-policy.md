@@ -1,28 +1,28 @@
-# AudioSwitcher Privacy Policy
+# BluetoothMicSwitch Privacy Policy
 
 Last updated: [Current Date]
 
 ## Introduction
 
-AudioSwitcher ("we", "our", or "us") respects your privacy and is committed to protecting it. This Privacy Policy explains how we collect, use, and safeguard your information when you use our AudioSwitcher application.
+BluetoothMicSwitch ("we", "our", or "us") respects your privacy and is committed to protecting it. This Privacy Policy explains how we collect, use, and safeguard your information when you use our BluetoothMicSwitch application.
 
 ## Information We Collect
 
-AudioSwitcher does not collect, store, or transmit any personal information. The app operates entirely on your local machine and does not send any data to external servers.
+BluetoothMicSwitch does not collect, store, or transmit any personal information. The app operates entirely on your local machine and does not send any data to external servers.
 
 ### Audio Device Information
-- AudioSwitcher accesses your system's audio devices to provide its core functionality
+- BluetoothMicSwitch accesses your system's audio devices to provide its core functionality
 - This includes device names, types, and connection status
 - This information is processed locally and is not stored or transmitted
 
 ### Bluetooth Information
-- AudioSwitcher accesses Bluetooth device information to detect and manage Bluetooth audio devices
+- BluetoothMicSwitch accesses Bluetooth device information to detect and manage Bluetooth audio devices
 - This includes device names and connection status
 - This information is processed locally and is not stored or transmitted
 
 ## Permissions
 
-AudioSwitcher requests the following permissions:
+BluetoothMicSwitch requests the following permissions:
 
 1. **Microphone Access**
    - Required to detect and switch between audio input devices
@@ -36,7 +36,7 @@ AudioSwitcher requests the following permissions:
 
 ## Data Storage
 
-All data processed by AudioSwitcher is stored locally on your device. We do not:
+All data processed by BluetoothMicSwitch is stored locally on your device. We do not:
 - Store any personal information
 - Transmit any data to external servers
 - Share any information with third parties
